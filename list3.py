@@ -125,3 +125,6 @@ for i in range(len(a)):
             min = k
     a[i],a[min] = a[min],a[i]
 print(f"your selection sort of number:- {a}")
+
+
+
